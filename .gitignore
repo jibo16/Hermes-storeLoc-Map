@@ -1,5 +1,3 @@
-PrecipMap/Datak
-*.zip
-*.csv
+PrecipMap/*
 
 !Processed_data/.gitkeep 
